@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheilaLygreWeitling
 - 👀 I’m interested in animals, scouting and computers.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and React.js.
 - 📫 Reach me on sheila-l-w@hotmail.com
 
 <!---
